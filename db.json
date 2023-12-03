@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exciting Adventure",
+      "description": "Embark on an exciting journey filled with unexpected twists and turns. Join our protagonist as they navigate through challenges, uncover mysteries, and discover the true meaning of courage.",
+      "likes_count": 120
+    },
+    {
+      "id": 2,
+      "title": "Culinary Delights",
+      "description": "Explore the world of gastronomy with mouth-watering recipes and culinary masterpieces. From savory dishes to decadent desserts, indulge your senses in a symphony of flavors.",
+      "likes_count": 85
+    },
+    {
+      "id": 3,
+      "title": "Inspirational Quotes",
+      "description": "Elevate your spirits with a collection of inspirational quotes that ignite passion and motivation. Embrace positivity, overcome challenges, and unleash the power within you.",
+      "likes_count": 200
+    },
+    {
+      "id": 4,
+      "title": "Tech Innovations",
+      "description": "Dive into the latest technological marvels reshaping our world. From artificial intelligence to cutting-edge gadgets, witness the future unfold before your eyes.",
+      "likes_count": 150
+    },
+    {
+      "id": 5,
+      "title": "Mindful Living",
+      "description": "Discover the art of mindful living with practical tips on meditation, self-care, and mental well-being. Cultivate a balanced and harmonious life that nurtures your mind, body, and soul.",
+      "likes_count": 95
+    },
+    {
+      "id": 6,
+      "title": "Photography Wonders",
+      "description": "Immerse yourself in a visual feast of breathtaking photography. Capture the essence of diverse landscapes, cultures, and moments frozen in time. Let the images tell stories beyond words.",
+      "likes_count": 180
+    }
+  ]
+}
